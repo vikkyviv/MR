@@ -1,0 +1,131 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ProjMedical.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE_OPTINS.Form1.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE_OPTINS.Properties.Resources.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ProjMedical.csproj.GenerateResource.Cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\LetterHeadingForm.frmLetterHeadingForm.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\SPECIFY_LOCATION.frmSpecifyLocation.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\PATIENT_LIST.frmPatientList.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\FrmCaptureImage.Form1.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\AdministrativeOptions.Form1.resources
+C:\Users\123\Documents\Visual Studio 2015\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE_OPTINS.MedicalMDIParent.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE_OPTINS.Form1.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\AdministrativeOptions.Form1.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\FrmCaptureImage.Form1.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ChangeUsernameAndPassword.frmChangePassword.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\DetailsDoctors.frmDetailsDoctors.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\Dictionary.Form1.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\LetterHeadingForm.frmLetterHeadingForm.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\PATIENT_LIST.frmPatientList.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\SELECT_REPORT_FORMAT.frmSelectReportFormat.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\SPECIFY_LOCATION.frmSpecifyLocation.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ProjMedical.MedicalMDIParent.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ProjMedical.Properties.Resources.resources
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ProjMedical.csproj.GenerateResource.Cache
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.exe.config
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.exe
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.pdb
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.exe
+E:\Medical-reports\Projects\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.pdb
+E:\ProjMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.exe.config
+E:\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.exe
+E:\ProjMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.pdb
+E:\SolMedical\ProjMedical\bin\Debug\ADMINISTRATIVE OPTINS.exe.config
+E:\SolMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.exe
+E:\SolMedical\ProjMedical\obj\Debug\ADMINISTRATIVE OPTINS.pdb
+E:\SolMedical\ProjMedical\obj\Debug\ProjMedical.csprojResolveAssemblyReference.cache
+E:\SolMedical\ProjMedical\obj\Debug\ADMINISTRATIVE_OPTINS.Form1.resources
+E:\SolMedical\ProjMedical\obj\Debug\AdministrativeOptions.Form1.resources
+E:\SolMedical\ProjMedical\obj\Debug\FrmCaptureImage.Form1.resources
+E:\SolMedical\ProjMedical\obj\Debug\ChangeUsernameAndPassword.frmChangePassword.resources
+E:\SolMedical\ProjMedical\obj\Debug\DetailsDoctors.frmDetailsDoctors.resources
+E:\SolMedical\ProjMedical\obj\Debug\Dictionary.Form1.resources
+E:\SolMedical\ProjMedical\obj\Debug\LetterHeadingForm.frmLetterHeadingForm.resources
+E:\SolMedical\ProjMedical\obj\Debug\PATIENT_LIST.frmPatientList.resources
+E:\SolMedical\ProjMedical\obj\Debug\SELECT_REPORT_FORMAT.frmSelectReportFormat.resources
+E:\SolMedical\ProjMedical\obj\Debug\SPECIFY_LOCATION.frmSpecifyLocation.resources
+E:\SolMedical\ProjMedical\obj\Debug\ProjMedical.MedicalMDIParent.resources
+E:\SolMedical\ProjMedical\obj\Debug\ProjMedical.Properties.Resources.resources
+E:\SolMedical\ProjMedical\obj\Debug\ProjMedical.csproj.GenerateResource.Cache
+C:\chanduproj\Medical-reports\ProjMedical\bin\Debug\ProjMedical.exe.config
+C:\chanduproj\Medical-reports\ProjMedical\bin\Debug\ProjMedical.exe
+C:\chanduproj\Medical-reports\ProjMedical\bin\Debug\ProjMedical.pdb
+C:\chanduproj\Medical-reports\ProjMedical\bin\Debug\Interop.VIDEOCAPLib.dll
+C:\chanduproj\Medical-reports\ProjMedical\bin\Debug\AxInterop.VIDEOCAPLib.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Interop.DAO.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Interop.MSDATASRC.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Interop.MSVidCtlLib.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Interop.VBRUN.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Interop.VIDEOCAPLib.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\AxInterop.VIDEOCAPLib.dll
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csproj.ResolveComReference.cache
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmAbout.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmDisplay.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmReadFromBackUp.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmBackUp.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmImageEdgeCut.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmOptions.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Add_New_Reports.frmAddNewRepots.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmCaptureDevice.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\FrmCaptureImage.frmCaptureImage.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ChangeUsernameAndPassword.frmChangePassword.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\DetailsDoctors.frmDetailsDoctors.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\Dictionary.frmDictionary.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\LetterHeadingForm.frmLetterHeadingForm.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\PATIENT_LIST.frmPatientList.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmReportSelection.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\SELECT_REPORT_FORMAT.frmSelectReportFormat.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmShowImages.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmShowReport.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\SPECIFY_LOCATION.frmSpecifyLocation.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmTempReport.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.MedicalMDIParent.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.Properties.Resources.resources
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csproj.GenerateResource.Cache
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.exe
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.pdb
+C:\chanduproj\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csprojResolveAssemblyReference.cache
+C:\chanduproj\Medical-reports\ProjMedical\bin\Debug\App.config
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\bin\Debug\App.config
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\bin\Debug\ProjMedical.exe.config
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\bin\Debug\ProjMedical.exe
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\bin\Debug\ProjMedical.pdb
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\bin\Debug\Interop.VIDEOCAPLib.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\bin\Debug\AxInterop.VIDEOCAPLib.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csprojAssemblyReference.cache
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\Interop.VBRUN.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\Interop.VIDEOCAPLib.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\AxInterop.VIDEOCAPLib.dll
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csproj.ResolveComReference.cache
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmAbout.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmDisplay.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmReadFromBackUp.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmBackUp.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmImageEdgeCut.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmOptions.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\Add_New_Reports.frmAddNewRepots.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmCaptureDevice.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\FrmCaptureImage.frmCaptureImage.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ChangeUsernameAndPassword.frmChangePassword.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\DetailsDoctors.frmDetailsDoctors.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\Dictionary.frmDictionary.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\LetterHeadingForm.frmLetterHeadingForm.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\PATIENT_LIST.frmPatientList.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmReportSelection.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\SELECT_REPORT_FORMAT.frmSelectReportFormat.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmShowImages.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmShowReport.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\SPECIFY_LOCATION.frmSpecifyLocation.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.frmTempReport.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.MedicalMDIParent.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.Properties.Resources.resources
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csproj.GenerateResource.cache
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.csproj.CoreCompileInputs.cache
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.exe
+C:\Users\Vikkyviv\Downloads\Medical-reports\Medical-reports\ProjMedical\obj\Debug\ProjMedical.pdb

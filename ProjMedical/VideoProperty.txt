@@ -1,0 +1,35 @@
+VideoDeviceName:
+SAA7130 Analog TV Card
+VideoFormat:
+YUY2 (768x576)
+YUY2 (768x576)
+UYVY (768x576)
+UYVY (768x576)
+RGB555 (768x576)
+RGB24 (768x576)
+RGB32 (768x576)
+VideoInputs:
+Video Tuner
+Video Composite
+S-Video
+VideoCompressors:
+MSScreen encoder DMO
+WMVideo9 Encoder DMO
+WMVideo Advanced Encoder DMO
+MSScreen 9 encoder DMO
+DV Video Encoder
+Indeo® video 5.10 Compression Filter
+MJPEG Compressor
+Cinepak Codec by Radius
+Helix I420 YUV Codec
+Intel Indeo(R) Video R3.2
+Intel Indeo® Video 4.5
+Indeo® video 5.10
+Intel IYUV codec
+Microsoft H.261 Video Codec
+Microsoft H.263 Video Codec
+Microsoft MPEG-4 Video Codec V2
+Microsoft MPEG-4 Video Codec V1
+Microsoft RLE
+Microsoft Video 1
+Helix YV12 YUV Codec

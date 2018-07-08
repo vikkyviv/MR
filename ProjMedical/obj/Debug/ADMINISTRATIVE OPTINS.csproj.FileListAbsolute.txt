@@ -1,0 +1,10 @@
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\bin\Debug\ADMINISTRATIVE OPTINS.exe.config
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\bin\Debug\ADMINISTRATIVE OPTINS.exe
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\bin\Debug\ADMINISTRATIVE OPTINS.pdb
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE OPTINS.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE_OPTINS.Form1.resources
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE_OPTINS.Properties.Resources.resources
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE OPTINS.csproj.GenerateResource.Cache
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE OPTINS.exe
+c:\users\123\documents\visual studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE OPTINS.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ADMINISTRATIVE OPTINS\ADMINISTRATIVE OPTINS\obj\Debug\ADMINISTRATIVE_OPTINS.MDIParent.resources
